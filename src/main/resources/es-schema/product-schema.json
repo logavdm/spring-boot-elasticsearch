@@ -1,0 +1,39 @@
+{
+    "mappings": {
+        "properties": {
+            "brand": {
+                "type": "text"
+            },
+            "category": {
+                "type": "text"
+            },
+            "description": {
+                "type": "text"
+            },
+            "discountPercentage": {
+                "type": "float"
+            },
+            "id": {
+                "type": "text"
+            },
+            "images": {
+                "type": "text"
+            },
+            "price": {
+                "type": "float"
+            },
+            "rating": {
+                "type": "float"
+            },
+            "stock": {
+                "type": "float"
+            },
+            "thumbnail": {
+                "type": "text"
+            },
+            "title": {
+                "type": "search_as_you_type"
+            }
+        }
+    }
+}
